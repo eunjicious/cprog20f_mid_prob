@@ -1,0 +1,11 @@
+1. build
+	- make
+
+2. execute 
+	./1_add_even
+	./2_triangle
+	./3_hanoi
+	./4_score
+	./5_one_count
+	./6_mountain
+	./7_blood
